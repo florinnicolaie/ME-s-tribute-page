@@ -1,0 +1,39 @@
+
+body {
+    text-align: center;
+    background-color: rgb(71, 62, 8);
+  }
+  
+  #img-div {
+      align-content: center;
+  }
+
+  
+  main {
+      background-color: rgb(214, 134, 28);
+      margin-left: 200px;
+      margin-right: 200px;
+  }
+
+  #title {
+    font-size: 30px;
+  }
+  
+  #tribute-info {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 19px;
+    text-align: justify;
+    
+  }
+  
+  div {
+    text-align: center; 
+  }
+  
+  img {
+    height: 450px;
+    max-width: 100%;
+    
+    
+  }
